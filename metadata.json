@@ -1,0 +1,8 @@
+{
+  "name": "EduSync Parent Calendar",
+  "description": "A multilingual, interactive calendar for tracking your children's school schedules, exam dates, and attendance in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
